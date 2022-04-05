@@ -5,6 +5,4 @@ in dieser Videoreihe entwickeln wir das Spiel Breakout in Unity. Die Videos rich
 
 ![](Images/BreakoutImage2.png)
 
-Das Ergebnis sieht dann so aus:
-
-![](Images/BreakoutImage1.PNG)
+Viel Spaß bei den Videos!
