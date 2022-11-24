@@ -1,5 +1,4 @@
 # Breakout (2D)
-Hallo Zusammen,
 
 Lerne das klassische 2D Arcade-Spiel Breakout in Unity zu entwickeln! In diesem Spiel muss der Player alle Bricks zerstören, indem er den herumfliegenden Ball in ihre Richtung schießt. 
 Diese Videoreihe richtet sich vor allem an absolute Einsteiger in der Spieleentwicklung. Es wird jeder Schritt genau erklärt!
