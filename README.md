@@ -5,7 +5,7 @@ Lerne das klassische 2D Arcade-Spiel Breakout in Unity zu entwickeln! In diesem 
 Diese Videoreihe richtet sich vor allem an absolute Einsteiger in der Spieleentwicklung. Es wird jeder Schritt genau erklärt!
 
 - Schwierigkeitsgrad: Anfänger
-- Themen: Physik, Kollisionen]
+- Themen: Physik, Kollisionen
 - Version: 2020.3.26f1
 - [🧰 Assets Download](https://github.com/PrezipGames/Breakout/raw/main/BreakoutPackage.unitypackage)
 - [🎮 Downloade das ganze Projekt](https://github.com/PrezipGames/Breakout/archive/refs/heads/main.zip)
