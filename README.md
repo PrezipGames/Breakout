@@ -9,7 +9,7 @@ Diese Videoreihe richtet sich vor allem an absolute Einsteiger in der Spieleentw
 - [🧰 Assets Download](https://github.com/PrezipGames/Breakout/raw/main/BreakoutPackage.unitypackage)
 - [🎮 Downloade das ganze Projekt](https://github.com/PrezipGames/Breakout/archive/refs/heads/main.zip)
 - [🎬 YT Tutorial](https://www.youtube.com/watch?v=MTn1LDzZnro&list=PL5ilq2JHX8N79tlLb5BinxmdcLz9ML1qJ)
-- [💬 Joint unserem Discord Server](https://discord.gg/kusy4JQ4)
+- [💬 Joint unserem Discord Server](https://discord.gg/cY5RW7D95u)
 - [👍 Abonniert um keine Videos zu verpassen](https://www.youtube.com/@prezipgames)
 
 ![](Images/BreakoutImage.png)
